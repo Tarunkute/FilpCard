@@ -8,8 +8,8 @@
 
 .heading{
     text-align:center;
-    padding-top:50px;
-    padding-bottom:50px;
+    padding-top:30px;
+    padding-bottom:30px;
     color:powderblue;
 }
 
@@ -24,7 +24,6 @@
     font-size: 30px;
     cursor: pointer;
     user-select: none;
-    padding:20px;
     border-radius: 8px;
     transition: background 0.3s, transform 0.3s;
 }
